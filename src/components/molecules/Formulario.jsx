@@ -11,6 +11,8 @@ function Formulario(){
             <Inp type={"Text"} id={"Apellido"} placeholder={"Apellido"}></Inp>
             <Text value={"Ingrese su Correo"}></Text>
             <Inp type={"Email"} id={"Email"} placeholder={"Correo"}></Inp>
+            <Text value={"Nombre de usuario"}></Text>
+            <Inp type={"Text"} id={"UserName"} placeholder={"Nombre de usuario"}></Inp>
             <Text value={"Ingrese su Contraseña"}></Text>
             <Inp type={"Password"} id={"Password"} placeholder={"Contraseña"}></Inp>
             <Text value={"Confirme su Contraseña"}></Text>
